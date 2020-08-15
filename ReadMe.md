@@ -1,6 +1,7 @@
 ## 目录
 
-[互联网漫游指南](互联网漫游指南2020081517.md)
+[The Whole Web Catalog](https://yuanyeon.github.io/notion/)
+[互联网漫游指南](互联网漫游指南2020081519)
 
 
 ## 说明

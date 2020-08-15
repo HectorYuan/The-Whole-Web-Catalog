@@ -1,6 +1,6 @@
 ## 目录
 
-[The Whole Web Catalog](https://yuanyeon.github.io/notion/)
+[The Whole Web Catalog](https://yuanyeon.github.io/The-Whole-Web-Catalog/)
 [互联网漫游指南](互联网漫游指南2020081519)
 
 
